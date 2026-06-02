@@ -1,8 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Saajid%20Ahamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cloud%20Learner&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Saajid%20Ahamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Backend+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Rust+%7C+Redis+%7C+NestJS+%7C+AWS;Building+Scalable+Systems+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Building+Scalable+Systems+%E2%9A%A1)](https://git.io/typing-svg)
+
+<div align="center">
+
+### "Build systems that solve problems, not just projects that complete tutorials."
+
+</div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SaajidAhamed007&style=flat-square&color=70a5fd)](https://github.com/SaajidAhamed007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saajid-ahamed-111a80313/)
@@ -18,16 +24,15 @@
 
 ```rust
 struct SaajidAhamed {
-    role: "Backend-Focused Full Stack Developer",
-    location: "Kerala, India 🇮🇳",
+    role: "Backend-Focused Software Developer",
 
     built: [
-        "Event Discovery Platform",
-        "Redis-backed Seat Booking System",
-        "LinkedIn Automation Backend",
-        "Real-Time Chat Application",
-        "Rust Key-Value Store",
-        "Rate Limiter"
+        "Eventx Event Discovery Platform",
+        "Redis-backed Concurrent Seat Booking System",
+        "LinkedIn Workflow Automation Backend",
+        "Persistent Rust Key-Value Store",
+        "Distributed Rate Limiting & Traffic Protection System",
+        "Real-Time Messaging Platform"
     ],
 
     technologies: [
@@ -105,50 +110,6 @@ fn motto() -> &'static str {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```txt
-☁️ AWS Cloud Practitioner (CLF-C02)
-🧩 Data Structures & Algorithms
-🏗️ System Design Fundamentals
-⚡ Backend Architecture
-🔄 Distributed Systems
-```
-
----
-
 ## 🏆 Engineering Highlights
 
 * 🦀 Built a Rust Key-Value Store from scratch
@@ -160,11 +121,5 @@ fn motto() -> &'static str {
 * 🎓 Building an AI-assisted Placement Management System
 
 ---
-
-<div align="center">
-
-### "Build systems that solve problems, not just projects that complete tutorials."
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
