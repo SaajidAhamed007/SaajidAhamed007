@@ -106,7 +106,6 @@ fn motto() -> &'static str {
 | 🗄 Rust KV Store               | Rust                   | Persistence, serialization, testing, modular architecture |
 | 🚦 Rate Limiter                | Node.js                | Fixed Window & Sliding Window algorithms                  |
 | 💬 Realtime Chat App           | React · Socket.IO      | Real-time messaging and authentication                    |
-| 🎓 Placement Management System | MERN                   | AI-assisted shortlisting and recruitment workflow         |
 
 ---
 
@@ -118,7 +117,6 @@ fn motto() -> &'static str {
 * 🔗 Developed a Java-based LinkedIn Automation Platform
 * 💬 Built Real-Time Chat Applications using Socket.IO
 * 📅 Developed Eventx Event Management Platform
-* 🎓 Building an AI-assisted Placement Management System
 
 ---
 
